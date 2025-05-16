@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "start": "tailwindcss -i ./src/tailwind.css -o ./dist/assets/css/tailwind.css -w"
+    
   },
   "keywords": [],
   "author": "Learn with Sumit",
